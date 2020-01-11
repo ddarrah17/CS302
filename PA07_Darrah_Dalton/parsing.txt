@@ -1,0 +1,37 @@
+Special Chars: 
+[	//Start of an array 
+{	//Start of an object
+"	//Start of a string, also can be a label
+: 	//A value is coming
+, 	//There's still more data
+. 	//Double
+
+Stacks... 
+
+For our parsing, we will use a stack, 
+
+while(!end of file){
+	if("an open brace"){
+		push new item to stack
+	}
+	if("a closed brace"){
+		pop the item off the stack 
+	}
+	if("")
+}
+
+float gameWon, winRate;
+	int gamePlay, fastWin, fewWin, topWin;  
+
+
+CS219
+Midterm
+Cheat sheet
+3X5 inch
+
+Review Questions/Key Terms for study 
+Over 100 Questions 
+================
+ADDRESSING MODES
+
+
